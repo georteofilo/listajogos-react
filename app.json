@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "listajogos-react",
+    "slug": "listajogos-react",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
